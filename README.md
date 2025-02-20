@@ -1,4 +1,4 @@
-# Hand Gesture Recognition README
+# Hand Gesture Recognition
 
 ## Project Overview
 This project focuses on recognizing hand gestures representing the American Sign Language (ASL) alphabet for the letters A-I. The task is to train a Convolutional Neural Network (CNN) to classify images of hand gestures. The project is divided into two parts:
